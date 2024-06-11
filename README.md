@@ -1,4 +1,4 @@
-# Sample Flask Project for Back4app Containers
+# VMSChats Project for Back4app Containers
 
 This repository contains a sample Flask application designed to be deployed on Back4app Containers. It serves as a template and guide to help you get started with deploying your own Flask applications on Back4app Containers.
 
